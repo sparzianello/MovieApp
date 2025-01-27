@@ -1,7 +1,3 @@
-# MovieApp
-repositório para avançar no curso Movie App (udemy) com foco em:
+Projeto base para os alunos do curso MovieApp.
 
-- Kotlin,
-- Jetpack Compose,
-- Arquitetura MVVM,
-- Testes
+<img src="https://github.com/gitdaniellopes/Movie-App/assets/26637908/6ad756db-2ac7-49de-ae46-cea420221dfa" width="1920">
