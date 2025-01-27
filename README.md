@@ -1,2 +1,7 @@
 # MovieApp
-repositório para avançar no curso Movie App (udemy) focado em aprender Kotlin, Jetpack Compose, arquitetura MVVM, testes e mais
+repositório para avançar no curso Movie App (udemy) com foco em:
+
+- Kotlin,
+- Jetpack Compose,
+- Arquitetura MVVM,
+- Testes
